@@ -28,12 +28,12 @@ Figure 4: run plot_CM_densities.m
 Figure 5: run plot_SS_densities.m                   
 Figure 6: run plot_best_SS_models.m (also creates Figure S6)                
 
-Figure S1:
-Figure S2:
+Figure S1: run plot_model_traces.m
+Figure S2: 
 Figure S3: 
 Figure S4: 
 Figure S5: 
-Figure S6; 
+Figure S6: (see plot_best_SS_models.m)
 
 TO REPRODUCE TABLES IN THE PAPER: 
 

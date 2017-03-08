@@ -25,8 +25,15 @@ Figure 1: run plot_serotype_viral_load_data.m
 Figure 2: run plot_model_1_dynamics_with_observation_noise.m
 Figure 3: run plot_model_1_dynamics_with_variance.m
 Figure 4: run plot_CM_densities.m
-Figure 5: 
-Figure 6: 
+Figure 5: run plot_SS_densities.m
+Figure 6: run plot_best_SS_models.m (also creates Figure S6)
+
+Figure S1:
+Figure S2:
+Figure S3: 
+Figure S4: 
+Figure S5: 
+Figure S6; 
 
 TO REPRODUCE TABLES IN THE PAPER: 
 

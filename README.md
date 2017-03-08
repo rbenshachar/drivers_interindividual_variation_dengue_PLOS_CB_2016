@@ -29,10 +29,10 @@ Figure 5: run plot_SS_densities.m
 Figure 6: run plot_best_SS_models.m (also creates Figure S6)                
 
 Figure S1: run plot_model_traces.m
-Figure S2: 
-Figure S3: 
-Figure S4: 
-Figure S5: 
+Figure S2: run plot_model_1_correlations.m
+Figure S3: run plot_different_deltaT.m
+Figure S4: run plot_model_1_CQ.m
+Figure S5: run plot_ADE_dynamics_peak.m
 Figure S6: (see plot_best_SS_models.m)
 
 TO REPRODUCE TABLES IN THE PAPER: 

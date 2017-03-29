@@ -3,8 +3,8 @@ MCMC code for 2016 PLOS Computational Biology paper, "Drivers of inter-individua
 All code is written in MATLAB
 
 FILES TO RUN EACH MODEL IN THE PAPER: (Need to add)
-Model 0:       
-Model 1:        
+Model 0:   run model_0_IC_1_final.m    
+Model 1:   run model_1_IC_1_final.m     
 Model OAS:
 Model ADE:
 Model SSbeta:

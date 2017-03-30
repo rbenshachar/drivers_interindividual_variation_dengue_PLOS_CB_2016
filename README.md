@@ -18,7 +18,7 @@ Model SSbetaADE: run SS_1_ADE_IC_1_final.m
 
 Models fit to peak viral load dataset:                            
 Model 1: run model_1_with_peak.m                     
-Model ADE: 
+Model ADE: run ADE_IC_1_with_peak.m            
 Model SSbeta:
 Model SSq:
 Model SSqT: 

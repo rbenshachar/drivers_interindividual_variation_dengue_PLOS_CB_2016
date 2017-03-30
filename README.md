@@ -4,6 +4,7 @@ All code is written in MATLAB
 
 FILES TO RUN EACH MODEL IN THE PAPER:                    
 
+Models fit to full dataset:                           
 Model 0:   run model_0_IC_1_final.m                           
 Model 1:   run model_1_IC_1_final.m                 
 Model OAS: run OAS_1_IC_1_final.m
@@ -11,6 +12,15 @@ Model ADE: run ADE_1_IC_1_final.m
 Model SSbeta: run SS_1_IC_1_final.m
 Model SSq: run SS_2_IC_1_final.m                  
 Model SSqT: run SS_3_IC_1_final.m                      
+Model SSbetaADE: run SS_1_ADE_IC_1_final.m
+
+Models fit to peak viral load dataset:                            
+Model 1: 
+Model ADE: 
+Model SSbeta:
+Model SSq:
+Model SSqT: 
+Model SSbetaADE: 
 
 FINAL MCMC CHAINS AND POSTERIORS FOR EACH MODEL: 
 Model 0: chain_0_IC_1_final.mat

@@ -1,13 +1,13 @@
 # drivers_interindividual_variation_dengue_PLOS_CB_2016
-MCMC code for 2016 PLOS Computational Biology paper, "Drivers of inter-individual variation in dengue viral load dynamics"
+MCMC code for 2016 PLOS Computational Biology paper, "Drivers of inter-individual variation in dengue viral load dynamics" by R Ben-Shachar, S Schmidler and K Koelle. 
 All code is written in MATLAB
 
 FILES TO RUN EACH MODEL IN THE PAPER:                    
 
 Model 0:   run model_0_IC_1_final.m                           
-Model 1:   run model_1_IC_1_final.m     
-Model OAS:
-Model ADE:
+Model 1:   run model_1_IC_1_final.m                 
+Model OAS: run OAS_1_IC_1_final.m
+Model ADE: run ADE_1_IC_1_final.m           
 Model SSbeta:
 Model SSq:
 Model SSqT:

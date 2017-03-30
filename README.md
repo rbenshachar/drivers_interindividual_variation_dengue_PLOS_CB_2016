@@ -19,10 +19,9 @@ Model SSbetaADE: run SS_1_ADE_IC_1_final_complex.m
 Models fit to peak viral load dataset:                            
 Model 1: run model_1_with_peak.m                     
 Model ADE: run ADE_IC_1_with_peak.m            
-Model SSbeta:
-Model SSq:
-Model SSqT: 
-Model SSbetaADE: 
+Model SSbeta: run SS_1_IC_1_peak_final.m                    
+Model SSqT: run SS_3_IC_1_peak_final.m         
+Model SSbetaADE: run SS_1_ADE_IC_1_peak_final_complex.m           
 
 FINAL MCMC CHAINS AND POSTERIORS FOR EACH MODEL: 
 Model 0: chain_0_IC_1_final.mat

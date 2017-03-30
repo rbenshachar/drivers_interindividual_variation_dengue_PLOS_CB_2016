@@ -48,11 +48,12 @@ Figure 4: run plot_CM_densities.m
 Figure 5: run plot_SS_densities.m                   
 Figure 6: run plot_best_SS_models.m (also creates Figure S6)                
 
-Figure S1: run plot_model_traces.m
-Figure S2: run plot_model_1_correlations.m
-Figure S3: run plot_different_deltaT.m
-Figure S4: run plot_model_1_CQ.m
-Figure S5: run plot_ADE_dynamics_peak.m
-Figure S6: (see plot_best_SS_models.m)
+Figure S1: run plot_model_traces.m                        
+Figure S2: run plot_model_1_correlations.m                             
+Figure S3: run plot_different_deltaT.m                        
+Figure S4: run plot_model_1_CQ.m                  
+Figure S5: run plot_ADE_dynamics_peak.m                     
+Figure S6: (see plot_best_SS_models.m)                
+Figure S7: run plot_SS_complex_densities.m             
 
-TO REPRODUCE TABLES IN THE PAPER: (need to add)
+TO REPRODUCE TABLES IN THE PAPER: (to be added)

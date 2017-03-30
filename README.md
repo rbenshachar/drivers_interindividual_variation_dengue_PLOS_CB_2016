@@ -2,6 +2,8 @@
 MCMC code for 2016 PLOS Computational Biology paper, "Drivers of inter-individual variation in dengue viral load dynamics" by R Ben-Shachar, S Schmidler and K Koelle. 
 All code is written in MATLAB
 
+run save_params.m to get set parameters for 'params' structure                                 
+
 FILES TO RUN EACH MODEL IN THE PAPER:                    
 
 Models fit to full dataset:                           
@@ -15,7 +17,7 @@ Model SSqT: run SS_3_IC_1_final.m
 Model SSbetaADE: run SS_1_ADE_IC_1_final.m
 
 Models fit to peak viral load dataset:                            
-Model 1: 
+Model 1: run model_1_with_peak.m                     
 Model ADE: 
 Model SSbeta:
 Model SSq:

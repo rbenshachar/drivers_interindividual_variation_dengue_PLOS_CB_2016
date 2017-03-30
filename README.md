@@ -7,10 +7,10 @@ FILES TO RUN EACH MODEL IN THE PAPER:
 Model 0:   run model_0_IC_1_final.m                           
 Model 1:   run model_1_IC_1_final.m                 
 Model OAS: run OAS_1_IC_1_final.m
-Model ADE: run ADE_1_IC_1_final.m           
-Model SSbeta:
-Model SSq:
-Model SSqT:
+Model ADE: run ADE_1_IC_1_final.m                            
+Model SSbeta: run SS_1_IC_1_final.m
+Model SSq: run SS_2_IC_1_final.m                  
+Model SSqT: run SS_3_IC_1_final.m                      
 
 FINAL MCMC CHAINS AND POSTERIORS FOR EACH MODEL: 
 Model 0: chain_0_IC_1_final.mat

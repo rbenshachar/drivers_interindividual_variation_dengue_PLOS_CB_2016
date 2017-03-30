@@ -30,7 +30,10 @@ Model OAS: chain_OAS_IC_1_final.mat, my_posterior_OAS_IC_1_final.mat
 Model ADE: chain_ADE_IC_1_final.mat, my_posterior_ADE_IC_1_final.mat                
 Model SSbeta: chain_SS_1_IC_1_final.mat, my_posterior_SS_1_IC_1_final.mat                 
 Model SSq: chain_SS_2_IC_1_final.mat, my_posterior_SS_2_IC_1_final.mat                    
-Model SSqT: chain_SS_3_IC_1_final.mat, my_posterior_SS_3_IC_1_final.mat                         
+Model SSqT: chain_SS_3_IC_1_final.mat, my_posterior_SS_3_IC_1_final.mat     
+
+Chains and posterior for models fit to peak viral load dataset:           
+To be added              
 
 SUPPLEMENTARY MODELS: 
 Model 1 fit separately to subset of individuals who received chloroquine (CQ) and those that received placebo (P):           
